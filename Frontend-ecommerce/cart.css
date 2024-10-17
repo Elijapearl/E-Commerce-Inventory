@@ -24,7 +24,7 @@ h2 {
     justify-content: space-between;
     align-items: center;
     padding: 10px 0;
-    border-bottom: 1px solid #0db315;
+    border-bottom: 1px solid #0a6a08;
   }
 
   .logo {
@@ -89,7 +89,7 @@ h2 {
   }
 
   .checkout button {
-    background-color: #13e11e;
+    background-color: #0a6a08;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -98,7 +98,7 @@ h2 {
   }
 
   .checkout button:hover {
-    background-color: #13e11e;
+    background-color: #0a6a08;
   }
 
   .total {
@@ -107,7 +107,7 @@ h2 {
   }
 
   .back-link {
-    color: #13e11e;
+    color: #0a6a08;
     text-decoration: none;
     margin-bottom: 20px;
     display: inline-block;
